@@ -14,7 +14,7 @@ jobs:
       contents: write
     env:
       TAG: ${{ github.event.inputs.tag }}
-      NAME: zapret-discord-youtube-vrchat-${{ github.event.inputs.tag }}
+      NAME: zapret-vrc-${{ github.event.inputs.tag }}
 
     steps:
       - name: Checkout
