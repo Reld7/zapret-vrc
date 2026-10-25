@@ -69,6 +69,7 @@ lesta.pw
 korabli.su
 tanksblitz.ru
 reg.ru
+epicgames.dev
 unrealengine.com
 riotgames.com
 riotcdn.net

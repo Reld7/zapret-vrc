@@ -62,7 +62,6 @@ vrchat.cloud
 photonengine.io
 unity3d.com
 epicgames.com
-epicgames.dev
 gaming-sdk.com
 amplitude.com
 squarespace-cdn.com
