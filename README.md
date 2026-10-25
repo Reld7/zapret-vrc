@@ -1,4 +1,4 @@
-# zapret-discord-youtube-vrchat
+# zapret-vrc
 
 Сборка на основе [flowseal/zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube).
 Оригинальный проект: [bol-van/zapret](https://github.com/bol-van/zapret).
